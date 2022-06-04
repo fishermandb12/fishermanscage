@@ -1,11 +1,11 @@
 # "/" + 仓库的名字. 资源文件的路径组成部分
-baseurl: '/Girls-Coding-Day-Jekyll-blog-3'
+baseurl: '/fishermanscabin'
 
 # 网页的标题
-title: "Girls Coding Day"
+title: "Thales"
 # 网站的主标题
-name: "Girls Coding Day"
-description: "架起女性与编程的桥梁"
+name: "Thales"
+description: "只有那些从不仰望星空的人,才不会跌入坑中。"
 
 # 其它配置, 可忽略, 无需修改
 url: site url
