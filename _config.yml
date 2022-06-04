@@ -5,7 +5,7 @@ baseurl: '/fishermanscage'
 title: "Thales"
 # 网站的主标题
 name: "Thales"
-description: " 只有那些从不仰望星空的人,才不会跌入坑中。"
+description: " 只有那些从不仰望星空的人,才不会跌入坑中"
 
 # 其它配置, 可忽略, 无需修改
 url: site url
